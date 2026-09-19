@@ -41,8 +41,3 @@ The complete analysis and visualizations can be found in:
 
 The notebook contains the detailed findings, visualizations, and conclusions obtained from the analysis.
 
-## How to Use
-
-1. Open `TMDB_IMDb_Movie_Data_Analysis.ipynb`.
-2. Open the notebook using Jupyter Notebook or Google Colab.
-3. Run the cells in order to reproduce the analysis.

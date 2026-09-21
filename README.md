@@ -20,6 +20,12 @@ The project uses movie data containing information such as:
 * Release information
 * Other movie-related attributes
 
+
+The dataset used in this project is larger than GitHub's file-size limit.
+
+The CSV dataset can be downloaded here:
+https://drive.google.com/file/d/1SZ2e8q9FRCnC9dY2wCEPJ8v6UInQoKj3/view?usp=sharing
+
 ## Technologies Used
 
 * Python
